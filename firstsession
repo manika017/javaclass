@@ -9,6 +9,7 @@ How to create notes in terminal mac
 Command to get notes to gihub:
 	git clone <url>
 	create notes
+	git status
 	git add *
 	git commit -m "comment"
 	git push
