@@ -1,0 +1,14 @@
+How to create notes in terminal mac
+	vi <file name>
+	type "i" to edit
+	when does press "ESC"
+	type ":wq" -  to save notes
+	type ":q!" - quit without saving notes
+	press enter
+
+Command to get notes to gihub:
+	git clone <url>
+	create notes
+	git add *
+	git commit -m "comment"
+	git push
