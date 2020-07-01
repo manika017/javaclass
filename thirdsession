@@ -1,0 +1,14 @@
+DATATYPES:
+
+int = numbers
+     Ex: time = 7
+         speed = 45
+
+String = letters
+     Ex: color = "blue"
+         school = "Westview"
+
+double = decimals and fractions
+     Ex: price = 37.90
+         height = 64
+         
